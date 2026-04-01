@@ -6,6 +6,11 @@ public class Principal {
         e1.ingresarNotas();
         e1.mostrarDatos();
 
+        Estudiante e2 =new Estudiante();
+        e2.ingresarDatos();
+        e2.ingresarNotas();
+        e2.mostrarDatos();
+
     }
 
 }
